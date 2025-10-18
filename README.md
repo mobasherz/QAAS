@@ -5,7 +5,7 @@
 
 # About QAAS
 **QAAS** is a digital archiving solution that aims to modernize the documentation procedure in governmental institutions. 
-We plan to leverage the **NFC Capability** in the governmental IDs to allow for instant file access. 
+<br> We plan to leverage the **NFC Capability** in the governmental IDs to allow for instant file access. 
 
 <br>
 
@@ -38,6 +38,8 @@ During the **development phase** we will be using the **[USBWebserver](https://g
     &nbsp;&nbsp;&nbsp;&nbsp;-> \php : php executables <br>
     &nbsp;&nbsp;&nbsp;&nbsp;-> \phpmyadmin : MySQL manager executable <br>
     &nbsp;&nbsp;&nbsp;&nbsp;-> settings.ini : stores the general settings <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;-> changelog.txt <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;-> usbwebserver.exe : main executable  <br>
 
 <br>
 
