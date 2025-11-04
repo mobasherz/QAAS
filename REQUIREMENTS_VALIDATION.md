@@ -30,6 +30,6 @@
 # Validation Methods
 
 -**(R-1)** The creation of a MVP prototype and designing test cases to find any possible shortcomings on the system. <br>
-      **Pass Condition:** System must function for 500 requests in a row.
+      **Pass Condition:** System must function for 500 requests in a row. <br>
 -**(R-2)** Creating "Stress Tests" and finding any possible bottlenecks then engineering resolutions to any issue. <br>
       **Pass Condition:** Data is transmitted within 10 seconds under a variety of the traffic/load on the network or the database.
